@@ -2,6 +2,12 @@
 
 Several classes demonstrating the PHP language.
 
+## Installation
+
+You'll need a working version of PHP and of `composer` in order for the scripts here to work.
+
+Run `composer install` to install the project dependencies and vendor packages.
+
 ## Deployment
 
 To run a PHP file and output the response to the console, use the following command:

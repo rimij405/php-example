@@ -1,0 +1,21 @@
+{
+    "name": "effendiian/php-example",
+    "description": "\"Series of PHP examples for testing functionality.\"",
+    "type": "project",
+    "require": {
+        "vlucas/phpdotenv": "5.4.x-dev"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Effendiian\\PhpExample\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ian Effendi",
+            "email": "effendiian@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
