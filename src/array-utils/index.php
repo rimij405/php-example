@@ -26,3 +26,4 @@ $modified = array_map(function($post){ return 'foobar'; }, $posts);
 
 $field = array_column($posts, 'title');
 
+var_dump($posts);
